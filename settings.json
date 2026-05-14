@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcserver6167.aternos.me.aternos.me",
+    "ip": "mcserver6167.aternos.me",
     "port": 16904,
     "version": "1.21.11"
   },
